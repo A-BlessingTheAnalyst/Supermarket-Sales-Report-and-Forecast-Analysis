@@ -15,6 +15,9 @@
 ## Project Overview
 This project conducts an in-depth analysis of revenue trends and sales performance over consecutive years. Utilizing various analytical techniques, including comparisons between previous and current year revenues, revenue distribution across different product categories, sales distribution across geographic regions, customer-centric sales patterns, and daily sales trends, the analysis aims to provide stakeholders with actionable insights for informed decision-making.
 
+![Supermartket Sales and Forecast Report](https://github.com/A-BlessingTheAnalyst/Supermarket-Sales-Report-and-Forecast-Analysis/assets/168881527/771238d5-b793-497b-a8c6-e236cd8c6344)
+
+
 ## Data Sources
 Supermarket Sales Data: The primary dataset used for this analysis is "supermarket_sales_data.pbix". It includes detailed records on sales by category, customer purchases, regional sales distributions, and other related metrics.
 
