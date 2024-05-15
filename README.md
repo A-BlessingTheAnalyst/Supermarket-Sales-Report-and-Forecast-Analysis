@@ -1,6 +1,6 @@
 # Revenue Analysis Project
 
-## Overview:
+## Project Overview:
 This project conducts an in-depth analysis of revenue trends and sales performance over consecutive years. Utilizing various analytical techniques, including comparisons between previous and current year revenues, revenue distribution across different product categories, sales distribution across geographic regions, customer-centric sales patterns, and daily sales trends, the analysis aims to provide stakeholders with actionable insights for informed decision-making.
 
 ## Key Insights:
