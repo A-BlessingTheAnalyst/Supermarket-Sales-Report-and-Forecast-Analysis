@@ -1,6 +1,30 @@
 
 # Supermarket Sales Report and Forecast Analysis
 
+# Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Data Sources](#data-sources)
+3. [Tools](#tools)
+4. [Data Cleaning/Preparation](#data-cleaningpreparation)
+5. [Exploratory Data Analysis](#exploratory-data-analysis)
+6. [Results/Findings](#resultsfindings)
+7. [Recommendations](#recommendations)
+8. [Conclusion](#conclusion)
+
+## Project Overview
+This section provides a high-level summary of the project and its objectives.
+
+## Data Sources
+Details on the datasets used and their origins.
+
+## Tools
+Information about the software and tools utilized in the project.
+
+## Data Cleaning/Preparation
+A list of steps undertaken to prepare t
+
+
 ## Project Overview
 This project conducts an in-depth analysis of revenue trends and sales performance over consecutive years. Utilizing various analytical techniques, including comparisons between previous and current year revenues, revenue distribution across different product categories, sales distribution across geographic regions, customer-centric sales patterns, and daily sales trends, the analysis aims to provide stakeholders with actionable insights for informed decision-making.
 
