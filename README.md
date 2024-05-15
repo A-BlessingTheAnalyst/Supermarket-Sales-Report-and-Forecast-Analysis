@@ -28,11 +28,11 @@ This dashboard was developed using Microsoft Excel. You can download it from the
 ## Data Cleaning/Preparation
 In the initial data preparation phase, we performed the following tasks:
 
-- Data loading and inspection
-- Correcting misspelled values
-- Removal of empty rows
-- Removal of duplicated values
-- Handling missing values
+- Data loading and inspection.
+- Correcting misspelled values.
+- Removal of empty rows.
+- Removal of duplicated values.
+- Handling missing values.
 - Data cleaning and formatting
 
 ## Exploratory Data Analysis
